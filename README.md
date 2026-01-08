@@ -25,7 +25,6 @@ Live Demo:https://nastaran-dev.github.io/game-/src/index1.html
 
 🔗LinkedIn: https://www.linkedin.com/in/nastaran-mohammadi-1515a8382
 
-دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
 <ul>
   <li>
     <a href=https://nastaran-dev.github.io/game-/src/index1.html>Live Demo</a>
